@@ -1,4 +1,4 @@
-# [Welcome to My Profile! 👋](https://richtine.xyz)
+# [Welcome to My Profile! 👋](http://richtine.xyz)
 - 👋 Hi, I’m @Richtine<br>
 - 👀 I’m interested in nothing<br>
 - 🌱 I’m currently learning nothing<br>
