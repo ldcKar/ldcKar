@@ -3,7 +3,7 @@
 - 👀 I’m interested in lesson<br>
 - 🌱 I’m currently learning javabr>
 - 💞️ I’m looking to collaborate on nothing<br>
-- 😎 I need a n**g a**<br>
+- 😎 I need a n**g ass br>
 - ![Profile views](https://gpvc.arturio.dev/Richtine)
 
 
