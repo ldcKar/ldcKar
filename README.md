@@ -1,9 +1,9 @@
 # [Welcome to My Profile! 👋](https://richtine.xyz)
 - 👋 Hi, I’m @Richtine<br>
 - 👀 I’m interested in lesson<br>
-- 🌱 I’m currently learning javabr>
+- 🌱 I’m currently learning java<br>
 - 💞️ I’m looking to collaborate on nothing<br>
-- 😎 I need a n**g ass br>
+- 😎 I need a n**g ass <br>
 - ![Profile views](https://gpvc.arturio.dev/Richtine)
 
 
