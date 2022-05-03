@@ -19,3 +19,9 @@
 [Discord]: https://discord.gg/qQ24D9SY5v
 
 
+
+
+
+
+![Github stats](https://github-readme-stats.vercel.app/api?username=Richtine&show_icons=true&theme=radical)
+
