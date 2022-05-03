@@ -16,6 +16,6 @@
 
 
 [Instagram]: https://instagram.com/rchtn1337
-[Discord]: https://discord.gg/tmywdsMh
+[Discord]: https://discord.gg/qQ24D9SY5v
 
 
