@@ -5,9 +5,9 @@
 - 💞️ I’m looking to collaborate on nothing<br>
 - 😎
 - ![Profile views](https://gpvc.arturio.dev/Richtine)
+[![Discord Presence](https://lanyard.cnrad.dev/api/:804048343034364032)](https://discord.com/users/:804048343034364032)
 
 [<img align="left" alt="iletisim | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
-[<img align="left" alt="iletisim | Discord Server" th="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />][Discord]
 <br />
 
 
@@ -16,7 +16,7 @@
 
 
 [Instagram]: https://instagram.com/rchtn1337
-[Discord]: https://discord.gg/qQ24D9SY5v
+
 
 
 
