@@ -1,7 +1,7 @@
 <h1 align="center">Merhaba 👋, ben Richtine</h1>
 <h3 align="center">Türkiye'den</h3>
 
-- 🔭 Şu anda [chase](https://github) üzerinde çalışıyorum .com/Richtine/chase)
+- 🔭 Şu anda [chase](https://github.com/Richtine/chase)) üzerinde çalışıyorum.
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
