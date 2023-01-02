@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Richtine</h1>
 <h3 align="center">From Turkey</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=richtine&label=Profile%20views&color=0e75b6&style=flat" alt="richtine" /> </p>
+<p align="left"> <img src="https://gpvc.arturio.dev/Richtine" alt="richtine" /> </p>
 
 - 🔭 I’m currently working on [chase](https://github.com/Richtine/chase)
 
