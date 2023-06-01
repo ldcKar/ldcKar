@@ -5,13 +5,13 @@
 
 <p align="left"> <img src="https://gpvc.arturio.dev/Richtine" alt="richtine" /> </p>
 
-- 🔭 I’m currently working on [chase](https://github.com/Richtine/chase)
+- 🔭 I’m currently working on [Scruffy](https://github.com/Richtine/scruffy)
 
 - 👨‍💻 All of my projects are available at [https://github.com/Richtine?tab=repositories](https://github.com/Richtine?tab=repositories)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://instagram.com/omer13337" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omer13337" height="30" width="40" /></a>
+<a href="https://instagram.com/omer.java" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="omer.java" height="30" width="40" /></a>
 <a href="https://discord.gg/FxJYQsZy4G" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="FxJYQsZy4G" height="30" width="40" /></a>
 </p>
 
